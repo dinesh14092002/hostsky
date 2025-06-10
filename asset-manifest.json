@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hostsky/static/css/main.8a76fe49.css",
-    "main.js": "/hostsky/static/js/main.496a3fb4.js",
+    "main.js": "/hostsky/static/js/main.518698a0.js",
     "index.html": "/hostsky/index.html",
     "main.8a76fe49.css.map": "/hostsky/static/css/main.8a76fe49.css.map",
-    "main.496a3fb4.js.map": "/hostsky/static/js/main.496a3fb4.js.map"
+    "main.518698a0.js.map": "/hostsky/static/js/main.518698a0.js.map"
   },
   "entrypoints": [
     "static/css/main.8a76fe49.css",
-    "static/js/main.496a3fb4.js"
+    "static/js/main.518698a0.js"
   ]
 }
